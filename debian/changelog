@@ -8,5 +8,6 @@ telepathy-accounts-signon (1.0-1~) UNRELEASED; urgency=low
   * Add myself to uploaders.
   * Update homepage to point to primary upstream site.
   * Update contact information in copyright file.
+  * Set section to net to match mission-control.
 
  -- Diane Trout <diane@debian.org>  Tue, 15 Sep 2015 21:57:17 -0700

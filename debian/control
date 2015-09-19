@@ -1,5 +1,5 @@
 Source: telepathy-accounts-signon
-Section: misc
+Section: net
 Priority: optional
 Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Diane Trout <diane@debian.org>, Rohan Garg <rohangarg@kubuntu.org>
