@@ -8,7 +8,7 @@ Build-Depends: debhelper (>= 9),
  libtelepathy-glib-dev,
  libsignon-glib-dev,
  libaccounts-glib-dev
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 Homepage: https://gitlab.com/accounts-sso/telepathy-accounts-signon
 Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-extras/telepathy-accounts-signon
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/telepathy-accounts-signon.git
