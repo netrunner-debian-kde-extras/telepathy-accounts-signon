@@ -1,0 +1,4 @@
+version=3
+opts=filenamemangle=s/.*=(.*)/telepathy-acounts-signon-$1\.tar\.gz/ \
+ https://gitlab.com/accounts-sso/telepathy-accounts-signon/tags \
+  .*/archive\.tar\.gz\?ref=([\d.]+)

@@ -10,5 +10,6 @@ telepathy-accounts-signon (1.0-1~) UNRELEASED; urgency=low
   * Update contact information in copyright file.
   * Set section to net to match mission-control.
   * Set dh to use buildsystem qmake and to use qt5
+  * Add watch file.
 
  -- Diane Trout <diane@debian.org>  Tue, 15 Sep 2015 21:57:17 -0700
