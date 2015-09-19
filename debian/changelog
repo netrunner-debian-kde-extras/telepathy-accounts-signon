@@ -7,5 +7,6 @@ telepathy-accounts-signon (1.0-1~) UNRELEASED; urgency=low
   * Set maintainer to debian-qt-kde team
   * Add myself to uploaders.
   * Update homepage to point to primary upstream site.
+  * Update contact information in copyright file.
 
  -- Diane Trout <diane@debian.org>  Tue, 15 Sep 2015 21:57:17 -0700

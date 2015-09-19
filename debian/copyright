@@ -1,6 +1,7 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: telepathy-accounts-signon
-Source: <url://example.com>
+Upstream-Contact: Martin Klapetek <martin.klapetek@gmail.com>
+Source: https://gitlab.com/accounts-sso/telepathy-accounts-signon.git
 
 Files: *
 Copyright: <years> <put author's name and email here>
