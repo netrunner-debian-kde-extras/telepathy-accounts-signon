@@ -1,3 +1,10 @@
+#!/usr/bin/make -f
+#export DH_VERBOSE = 1
+
+include /usr/share/dpkg/default.mk
+export DEB_LDFLAGS_MAINT_APPEND = -Wl,--as-needed
+export QT_SELECT=qt5
+
 %:
-	dh $@ 
+	dh $@ --buildsystem qmake
 
