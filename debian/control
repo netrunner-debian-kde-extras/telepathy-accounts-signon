@@ -16,6 +16,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/telepathy-accounts-signon.g
 Package: telepathy-accounts-signon
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: MC integration with libaccounts and libsignon
+Description: Mission control integration with libaccounts and libsignon
  A mission control plugin for Telepathy, integrating with libaccounts
- and libsignon to provide IM accounts and authentication.
+ and libsignon to provide shared management of online accounts and
+ authentication.
