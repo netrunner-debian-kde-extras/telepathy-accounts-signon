@@ -1,5 +1,10 @@
-telepathy-accounts-signon (0-0ubuntu0) UNRELEASED; urgency=low
+telepathy-accounts-signon (1.0-1~) UNRELEASED; urgency=low
 
+  [ Rohan Garg ]
   * Initial release.
 
- -- Rohan Garg <rohangarg@kubuntu.org>  Fri, 12 Jun 2015 02:39:51 +0200
+  [ Diane Trout ]
+  * Set maintainer to debian-qt-kde team
+  * Add myself to uploaders.
+
+ -- Diane Trout <diane@debian.org>  Tue, 15 Sep 2015 21:57:17 -0700
