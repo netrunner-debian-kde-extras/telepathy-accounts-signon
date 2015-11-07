@@ -1,4 +1,4 @@
-telepathy-accounts-signon (1.0-1~) UNRELEASED; urgency=low
+telepathy-accounts-signon (1.0-1) unstable; urgency=low
 
   [ Rohan Garg ]
   * Initial release.
